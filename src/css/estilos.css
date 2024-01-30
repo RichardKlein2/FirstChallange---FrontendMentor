@@ -1,0 +1,136 @@
+body {
+    background-color: #F3E5D8;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.card .title {
+    font-family: "YoungSerif-Regular";
+    color: #262523;
+    background-color: #fff;
+    padding: 50px 50px 0px 20px;
+    display: flex;
+
+}
+
+.card p {
+    color: #91908E;
+    background-color: #FFF;
+    padding: 30px 50px 50px 20px;
+    font-family: "Outfit-Bold";
+}
+
+
+.card {
+    background-color: #FFF;
+    margin-bottom: 100px;
+    padding: 50px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 300px;
+}
+
+.card .omelete {
+    width: 100%;
+    padding: 0px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: #FFF;
+    border-radius: 15px;
+}
+
+.card .subhead {
+    font-family: "YoungSerif-Regular";
+    color: #BA8B9D;
+    padding: 0px 0px 0px px;
+    background-color: #FFF7FC;
+}
+
+.card .preparation-time {
+    padding: 20px 20px 20px 20px;
+    background-color: hsl(322, 100%, 98%);
+    border-radius: 15px;
+}
+
+.card .preparation-time ul li {
+    font-family: "Outfit-Bold";
+    color: #736967;
+    list-style: disc;
+    padding: 10px 0px 0px 20px;
+}
+
+.card .subhead2 {
+    font-family: "YoungSerif-Regular";
+    color: #7F463D;
+    padding: 30px 0px 0px 0px;
+}
+
+.card .ingredients {
+    font-family: "Outfit-Bold";
+    padding: 15px 0px 10px 10px;
+    color: #91908E;
+}
+
+.card .ingredients ul li {
+    list-style: disc;
+    padding: 15px 0px 15px 0px;
+
+}
+
+.card .subhead3 {
+    font-family: "YoungSerif-Regular";
+    color: #7F463D;
+    padding: 15px 0px 15px 0px;
+}
+
+.card .instructions {
+    padding: 0px 0px 15px 0px;
+}
+
+.card .instructions ul li {
+    font-family: "Outfit-Bold";
+    padding: 15px 0px 15px 0px;
+    color: #91908E;
+    list-style: decimal;
+}
+
+.card .subhead4 {
+    font-family: "YoungSerif-Regular";
+    color: #7F463D;
+    padding: 20px 0px 20px 0px;
+}
+
+.card .nutrition-d {
+    font-family: "Outfit-Bold";
+    color: #91908E;
+}
+
+.card .nutrition-d .pn {
+    padding: 10px 0px 15px 0px;
+    list-style: none;
+
+}
+
+.table tbody td {
+    padding: 20px 0px 20px 0px;
+    border-bottom: ridge thin gray;
+}
+
+.table tbody .number4 {
+    color: #7F463D;
+}
+
+.table tbody .number1 {
+    color: #7F463D;
+}
+
+.table tbody .number2 {
+    color: #7F463D;
+}
+
+.table tbody .number3 {
+    color: #7F463D;
+}
